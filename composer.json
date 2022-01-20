@@ -1,0 +1,26 @@
+{
+    "name": "mohamedhk2/wamp-curl",
+    "description": "Wamp Curl Fix",
+    "homepage": "https://github.com/mohamedhk2/wamp-curl",
+    "autoload": {
+        "psr-4": {
+            "Mohamedhk2\\WampCurl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamedhk2",
+            "email": "mohamedhk2@yahoo.fr"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^5.4"
+    },
+    "require": {
+        "hassankhan/config": "^3.0"
+    },
+    "license": "MIT",
+    "config": {
+        "sort-packages": true
+    }
+}
