@@ -20,4 +20,4 @@ var_dump($results);
 ```
 
 ## License
-The Laravel Prod Tools is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+Wamp Curl Fix is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
