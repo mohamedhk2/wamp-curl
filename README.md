@@ -12,7 +12,7 @@ composer require mohamedhk2/wamp-curl
 ```
 
 ## Usage
-- Download `cacert.pem` from `https://curl.haxx.se/ca/cacert.pem`
+- Download `cacert.pem` from [`https://curl.se/ca/cacert.pem`](https://curl.se/ca/cacert.pem)
 ```php
 require_once 'vendor/autoload.php';
 $results = \Mohamedhk2\WampCurl\WampCurl::fix('C:\wamp64', 'C:\wamp64\bin\cacert.pem');
